@@ -1,0 +1,13 @@
+# https://www.w3schools.com/python/python_numbers.asp
+
+x = 35e3
+y = 12E4
+z = -87.7e100
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+print(x)
+print(y)
+print(z)
